@@ -1,7 +1,9 @@
 # 💻 CodSoft Python Internship Projects
 
 ![Password Generator](./screenshot/screenshot1.png)
+
 ![Rock Paper and Scissor Game](screenshot/screenshot2.png)
+
 ![Calculator](screenshot/screenshot3.png)
 
 This repository contains the Python projects I completed as part of my internship at **CodSoft**. These beginner-friendly projects helped me apply and strengthen my programming knowledge through real-world examples.
